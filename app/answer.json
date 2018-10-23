@@ -1,0 +1,21 @@
+{
+  "update_id": 943232768,
+  "message": {
+    "message_id": 81,
+    "from": {
+      "id": 658436396,
+      "is_bot": false,
+      "first_name": "Vladyslav",
+      "last_name": "Hnatchenko",
+      "language_code": "en-US"
+    },
+    "chat": {
+      "id": 658436396,
+      "first_name": "Vladyslav",
+      "last_name": "Hnatchenko",
+      "type": "private"
+    },
+    "date": 1540283521,
+    "text": "ffhf"
+  }
+}
