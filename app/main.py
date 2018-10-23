@@ -12,7 +12,7 @@ app = Flask(__name__)
 sslify = SSLify(app)
 
 
-URL = 'https://api.telegram.org/bot621067972:AAEG6ZxMm3Z0R6jebo0UnybsKZ1fU1BAHjg/'
+URL = 'https://api.telegram.org/bot621067972:.../'
 
 
 def write_json(data, filename='answer.json'):
